@@ -1,0 +1,300 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	height: 1080px;
+	left: 1531px;
+	top: 0px;
+}
+#Group_1 {
+	position: absolute;
+	width: 512px;
+	height: 860px;
+	left: 1325px;
+	top: 71px;
+	overflow: visible;
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 12px 42px rgba(0, 0, 0, 0.051));
+	position: absolute;
+	overflow: visible;
+	width: 638px;
+	height: 986px;
+	left: 0px;
+	top: 0px;
+}
+#icon {
+	position: absolute;
+	width: 122px;
+	height: 122px;
+	left: 354px;
+	top: 46px;
+	overflow: visible;
+}
+#Dharmesh_Vishrolia {
+	position: absolute;
+	left: 50px;
+	top: 170px;
+	overflow: visible;
+	width: 427px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Schadow BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Web_Designer___Developer {
+	position: absolute;
+	left: 124px;
+	top: 232px;
+	overflow: visible;
+	width: 353px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(129,129,129,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 454.004px;
+	height: 3px;
+	left: 29.5px;
+	top: 279.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Experienced_Web_Developer_and_ {
+	position: absolute;
+	left: 39px;
+	top: 296px;
+	overflow: visible;
+	width: 450px;
+	height: 394px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#ID174857 {
+	position: absolute;
+	width: 58px;
+	height: 58px;
+	left: 124px;
+	top: 736px;
+	overflow: visible;
+}
+#facebook_icon {
+	position: absolute;
+	width: 58px;
+	height: 58px;
+	left: 39px;
+	top: 736px;
+	overflow: visible;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 454.004px;
+	height: 3px;
+	left: 34.5px;
+	top: 704.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_1___1 {
+	position: absolute;
+	width: 67px;
+	height: 28px;
+	left: 98px;
+	top: 71px;
+	overflow: visible;
+}
+#Home {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,7,7,1);
+}
+#Portfolio {
+	position: absolute;
+	left: 201px;
+	top: 71px;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#About {
+	position: absolute;
+	left: 329px;
+	top: 71px;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 2.999px;
+	height: 51.039px;
+	left: 181.5px;
+	top: 59.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 2.999px;
+	height: 51.039px;
+	left: 310.5px;
+	top: 59.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#desinger {
+	position: absolute;
+	left: 201px;
+	top: 354px;
+	overflow: visible;
+	width: 552px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bodoni Bd BT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(0,0,0,1);
+}
+#coder {
+	position: absolute;
+	left: 622px;
+	top: 492px;
+	overflow: visible;
+	width: 380px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bodoni Bd BT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,0,0,1);
+}
+#Graphic_Design_ {
+	position: absolute;
+	left: 98px;
+	top: 883px;
+	overflow: visible;
+	width: 232px;
+	height: 40px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(133,133,133,1);
+}
+#Web_Design {
+	position: absolute;
+	left: 364px;
+	top: 883px;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(133,133,133,1);
+}
+#Web_Development {
+	position: absolute;
+	left: 589px;
+	top: 883px;
+	overflow: visible;
+	width: 247px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(133,133,133,1);
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 212px;
+	height: 1px;
+	left: 98.5px;
+	top: 931.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 166px;
+	height: 1px;
+	left: 361.5px;
+	top: 931.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 246px;
+	height: 1px;
+	left: 589.5px;
+	top: 931.5px;
+	transform: matrix(1,0,0,1,0,0);
+}

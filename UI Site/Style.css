@@ -24,43 +24,273 @@
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
-.Rectangle_7 {
+.Rectangle_2_h {
 	position: absolute;
 	overflow: visible;
-	width: 389px;
+	width: 1920px;
 	height: 1080px;
-	left: 1531px;
-	top: 0px;
-}
-#Group_1 {
-	position: absolute;
-	width: 512px;
-	height: 860px;
-	left: 1325px;
-	top: 71px;
-	overflow: visible;
-}
-.Rectangle_1 {
-	filter: drop-shadow(0px 12px 42px rgba(0, 0, 0, 0.051));
-	position: absolute;
-	overflow: visible;
-	width: 638px;
-	height: 986px;
 	left: 0px;
 	top: 0px;
 }
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 29px;
+	left: 252.5px;
+	top: 51.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_10 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 29px;
+	left: 352.5px;
+	top: 52.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_12 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 29px;
+	left: 1759.5px;
+	top: 51.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 29px;
+	left: 130.5px;
+	top: 50.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 120px;
+	left: 174px;
+	top: 549px;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 120px;
+	left: 329px;
+	top: 651px;
+}
+.Icon_awesome_home {
+	overflow: visible;
+	position: absolute;
+	width: 21.861px;
+	height: 17px;
+	left: 99.208px;
+	top: 56px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Graphic_Button {
+	position: absolute;
+	width: 103.5px;
+	height: 22.5px;
+	left: 140px;
+	top: 57px;
+	overflow: visible;
+}
+#Graphic_Design {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Line_15 {
+	opacity: 0;
+}
+.Line_15 {
+	overflow: visible;
+	position: absolute;
+	width: 103px;
+	height: 1px;
+	left: 0.5px;
+	top: 22.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Web_Design_Button {
+	position: absolute;
+	width: 84px;
+	height: 21.5px;
+	left: 261.5px;
+	top: 58px;
+	overflow: visible;
+}
+#Web_Design {
+	position: absolute;
+	left: 0.5px;
+	top: 0px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Line_16 {
+	opacity: 0;
+}
+.Line_16 {
+	overflow: visible;
+	position: absolute;
+	width: 84px;
+	height: 1px;
+	left: 0px;
+	top: 21.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Web_Development_Button {
+	position: absolute;
+	width: 123.5px;
+	height: 23.5px;
+	left: 362px;
+	top: 58px;
+	overflow: visible;
+}
+#Web_Development {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Line_17 {
+	opacity: 0;
+}
+.Line_17 {
+	overflow: visible;
+	position: absolute;
+	width: 123px;
+	height: 1px;
+	left: 0.5px;
+	top: 23.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#About_Button {
+	position: absolute;
+	width: 39.5px;
+	height: 21.5px;
+	left: 1711px;
+	top: 57px;
+	overflow: visible;
+}
+#About {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Line_18 {
+	opacity: 0;
+}
+.Line_18 {
+	overflow: visible;
+	position: absolute;
+	width: 39px;
+	height: 1px;
+	left: 0.5px;
+	top: 21.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Contact_Button {
+	position: absolute;
+	width: 52.5px;
+	height: 21.5px;
+	left: 1769px;
+	top: 57px;
+	overflow: visible;
+}
+#Contact {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Line_19 {
+	opacity: 0;
+}
+.Line_19 {
+	overflow: visible;
+	position: absolute;
+	width: 52px;
+	height: 1px;
+	left: 0.5px;
+	top: 21.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Main_Content {
+	position: absolute;
+	width: 1345.5px;
+	height: 611px;
+	left: 487.5px;
+	top: 110px;
+	overflow: visible;
+}
+#Group_3 {
+	position: absolute;
+	width: 432.5px;
+	height: 348px;
+	left: 0px;
+	top: 263px;
+	overflow: visible;
+}
 #icon {
 	position: absolute;
-	width: 122px;
-	height: 122px;
-	left: 354px;
-	top: 46px;
+	width: 98px;
+	height: 98px;
+	left: 6.5px;
+	top: 0px;
 	overflow: visible;
 }
 #Dharmesh_Vishrolia {
 	position: absolute;
-	left: 50px;
-	top: 170px;
+	left: 6.5px;
+	top: 95px;
 	overflow: visible;
 	width: 427px;
 	white-space: nowrap;
@@ -69,232 +299,127 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 50px;
-	color: rgba(0,0,0,1);
+	color: rgba(255,255,255,1);
 }
 #Web_Designer___Developer {
 	position: absolute;
-	left: 124px;
-	top: 232px;
+	left: 5.5px;
+	top: 148px;
 	overflow: visible;
-	width: 353px;
+	width: 235px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 30px;
-	color: rgba(129,129,129,1);
-}
-.Line_1 {
-	overflow: visible;
-	position: absolute;
-	width: 454.004px;
-	height: 3px;
-	left: 29.5px;
-	top: 279.5px;
-	transform: matrix(1,0,0,1,0,0);
+	font-size: 20px;
+	color: rgba(0,50,138,1);
 }
 #Experienced_Web_Developer_and_ {
 	position: absolute;
-	left: 39px;
-	top: 296px;
+	left: 9.5px;
+	top: 184px;
 	overflow: visible;
-	width: 450px;
-	height: 394px;
+	width: 424px;
+	height: 121px;
 	text-align: left;
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 25px;
-	color: rgba(0,0,0,1);
+	font-size: 15px;
+	color: rgba(255,255,255,1);
 }
-#ID174857 {
-	position: absolute;
-	width: 58px;
-	height: 58px;
-	left: 124px;
-	top: 736px;
+.Line_8 {
 	overflow: visible;
+	position: absolute;
+	width: 426.002px;
+	height: 2px;
+	left: 0px;
+	top: 173.5px;
+	transform: matrix(1,0,0,1,0,0);
 }
 #facebook_icon {
 	position: absolute;
-	width: 58px;
-	height: 58px;
-	left: 39px;
-	top: 736px;
+	width: 23px;
+	height: 23px;
+	left: 371.5px;
+	top: 325px;
 	overflow: visible;
 }
-.Line_2 {
+#ID174857 {
+	filter: drop-shadow(0px 12px 6px rgba(255, 255, 255, 0.161));
+	position: absolute;
+	width: 23px;
+	height: 23px;
+	left: 403.5px;
+	top: 325px;
+	overflow: visible;
+}
+.Line_9 {
 	overflow: visible;
 	position: absolute;
-	width: 454.004px;
-	height: 3px;
-	left: 34.5px;
-	top: 704.5px;
+	width: 426.002px;
+	height: 2px;
+	left: 0px;
+	top: 314.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Component_1___1 {
+#Email___dharmeshvishrolia_gmai {
 	position: absolute;
-	width: 67px;
-	height: 28px;
-	left: 98px;
-	top: 71px;
+	left: 0.5px;
+	top: 325px;
 	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,50,138,1);
 }
-#Home {
+#designer {
+	opacity: 0;
 	position: absolute;
-	left: 0px;
+	left: 960.5px;
 	top: 0px;
 	overflow: visible;
-	width: 68px;
+	width: 386px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 25px;
-	color: rgba(255,7,7,1);
-}
-#Portfolio {
-	position: absolute;
-	left: 201px;
-	top: 71px;
-	overflow: visible;
-	width: 93px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Arial;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 25px;
-	color: rgba(0,0,0,1);
-}
-#About {
-	position: absolute;
-	left: 329px;
-	top: 71px;
-	overflow: visible;
-	width: 66px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Arial;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 25px;
-	color: rgba(0,0,0,1);
-}
-.Line_3 {
-	overflow: visible;
-	position: absolute;
-	width: 2.999px;
-	height: 51.039px;
-	left: 181.5px;
-	top: 59.5px;
-	transform: matrix(1,0,0,1,0,0);
-}
-.Line_4 {
-	overflow: visible;
-	position: absolute;
-	width: 2.999px;
-	height: 51.039px;
-	left: 310.5px;
-	top: 59.5px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#desinger {
-	position: absolute;
-	left: 201px;
-	top: 354px;
-	overflow: visible;
-	width: 552px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Bodoni Bd BT;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 150px;
-	color: rgba(0,0,0,1);
+	font-size: 100px;
+	color: rgba(108,149,220,1);
 }
 #coder {
+	opacity: 0;
 	position: absolute;
-	left: 622px;
-	top: 492px;
+	left: 1093.5px;
+	top: 80px;
 	overflow: visible;
-	width: 380px;
+	width: 253px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Bodoni Bd BT;
+	font-family: Arial;
 	font-style: normal;
-	font-weight: bold;
-	font-size: 150px;
+	font-weight: normal;
+	font-size: 100px;
 	color: rgba(255,0,0,1);
 }
-#Graphic_Design_ {
+#_____ {
+	opacity: 0.11;
 	position: absolute;
-	left: 98px;
-	top: 883px;
+	left: 1196px;
+	top: 446px;
 	overflow: visible;
-	width: 232px;
-	height: 40px;
-	text-align: left;
-	font-family: Arial;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 30px;
-	color: rgba(133,133,133,1);
-}
-#Web_Design {
-	position: absolute;
-	left: 364px;
-	top: 883px;
-	overflow: visible;
-	width: 164px;
+	width: 351px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Arial;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 30px;
-	color: rgba(133,133,133,1);
-}
-#Web_Development {
-	position: absolute;
-	left: 589px;
-	top: 883px;
-	overflow: visible;
-	width: 247px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Arial;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 30px;
-	color: rgba(133,133,133,1);
-}
-.Line_5 {
-	overflow: visible;
-	position: absolute;
-	width: 212px;
-	height: 1px;
-	left: 98.5px;
-	top: 931.5px;
-	transform: matrix(1,0,0,1,0,0);
-}
-.Line_6 {
-	overflow: visible;
-	position: absolute;
-	width: 166px;
-	height: 1px;
-	left: 361.5px;
-	top: 931.5px;
-	transform: matrix(1,0,0,1,0,0);
-}
-.Line_7 {
-	overflow: visible;
-	position: absolute;
-	width: 246px;
-	height: 1px;
-	left: 589.5px;
-	top: 931.5px;
-	transform: matrix(1,0,0,1,0,0);
+	font-size: 200px;
+	color: rgba(255,0,0,1);
 }

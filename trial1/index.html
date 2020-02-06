@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+ <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<video autoplay muted loop id="myVideo">
+  <source src="background.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
+<div class="content">
+<nav class="nav navbar-expand-sm">
+  <ul class="navbar-nav">
+      <li class="nav-item"><a href="index.html">Home</a></li>
+      <li class="nav-item"><a>Portfolio</a></li>
+      <li class="nav-item"><a>About</a></li>
+      <li class="nav-item right"><a>Sign IN</a></li>    
+      <li class="nav-item right"><a>Contact</a></li>
+  </ul>
+</nav>
+</div>
+
+<script>
+var video = document.getElementById("myVideo");
+var btn = document.getElementById("myBtn");
+
+function myFunction() {
+  if (video.paused) {
+    video.play();
+    btn.innerHTML = "Pause";
+  } else {
+    video.pause();
+    btn.innerHTML = "Play";
+  }
+}
+</script>
+
+</body>
+</html>
